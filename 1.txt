@@ -6,3 +6,5 @@
 11111000,after add file 
 save 1.txt
 save 1.txt after add
+1115,review checkout befor add
+1115,after add modify,wuyong 13:03
