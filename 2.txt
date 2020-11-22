@@ -1,2 +1,4 @@
 1118,19:48,create 2.txt
 1118,19:49,after add modify 
+1122，14:46,Remote git
+1122,14:47,review git add,diff,status,checkout,reset,restore,switch
